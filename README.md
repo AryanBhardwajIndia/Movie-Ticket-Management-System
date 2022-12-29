@@ -12,3 +12,22 @@ customer in the waiting list can get the ticket. The customer can also reserve t
 seat they desire by viewing the seat pattern along with their desired food. There will
 be a menu for admins as well where the admin can change the price of the tickets as
 per their demand/sales.
+
+# Solution to Problems
+
+1. Providing choice of seats
+2. Loss of physical data's chances are less
+3. Preventing human error
+4. Book tickets at the ease of your home
+
+# Requirements
+
+1. Windows OS, MacOS, Linux - 64 Bit OS
+2. GCC Compiler
+3. Code Editor
+
+# Installation
+
+1. Install the file movie.c.
+2. Compile the file using a code editor such as VSCode.
+3. Operation Completed successfully.
